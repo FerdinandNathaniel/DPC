@@ -1,0 +1,38 @@
+DPC Summaries
+
+=======================
+BKI104: Mathematics 1A
+Students remarked the workload to be between balanced and too light. As a common thread in the evaluations of Mathmatics 1A there's a divide between those that found the course too easy and those that remarked it to be very helpful. Commonly MathsA students find the course more difficult than MathsB students.
+
+The literature is seen as needlessly complex, hard to read through and not very useful. Reference has been made to Franc's lectures, which are commonly regarded as very clear and easy to understand, creating a stark contrast with the literature.
+
+Remarks on the lectures, documentation and the exam not matching up is frequent. Material spoken of in lectures not being tested in the exam and the documentation going beyond the scope of the course are two recurring arguments.
+
+Franc gets a high amount of praise. The only small blamage are small comments on the lectures using too many simple examples, which caused some strain when confronted with more difficult questions in the homework exercises.
+
+The DPC advises the course in Mathematics 1A to be held in the first semester of the academic year instead of the second semester and to streamline the lectures, documentation and exam to be more in line with eachother. Overal there's a positive response to the course with a 8.0 grade.
+
+=======================
+BKI107: Frequentist Statistics
+Students remarked the workload to be sufficient, not too light nor too heavy. The response to the literature has been extatic, with many speaking out to compliment it despite its size. Reference has been made to lecture slides seeming like carbon copies of the book, leading some to never read the book and others to skip lectures and just go through the literature instead. Thus the lecture and literature were seen as alternatives instead of complementary aspects of the course.
+
+Organisation wise students were very satisfied, with minor comments on preferring information to be online a bit earlier, i.e. lecture slides being online before the lecture so that you can follow along during it. The lecture demos were seen as a strong positive force within the course. There were some comments about the final assigment being a bit messy organisational wise.
+
+Some comments were made on the grading of TA's not being consistend between them (one TA allowing what another TA wouldn't).
+
+Students were very positive about Alex, especially the logistics of the course, communication and the clarity of explanations. His stance during lectures is seen as yet a bit inexperienced, mostly referring to not enough visual contact with the lecture participants.
+
+The DPC advices to streamline TA grading as such that given grades are independent of who evaluated it. During lectures we advice the lecturer to make certain to have enough contact with the participants in the lecture hall and to make the lecture and literature complementary instead of alternatives as it is currently seen by some.
+
+=======================
+BKI122A: Intro AI B
+Students remarked that time allocated for the final harder assignments was considerably less than earlier easier assignments. A common cause for this would be a non-strict approach to dealing with deadlines. The positioning within the programme is seen as okay with the assumption that other courses within the second semester will be swapped with first semester courses since the second semester of the first year had too high a study load. 
+
+There are a considerable amount of students who felt overwhelmed with Python as it was given, asking for a bit more explanation of and exploration into the programming environment. The learning curve was seen as too steep.
+
+Not enough TA's is something that's mentioned quite often, together with many remarks about grading and feedback being late. This is logically paired with the logistical difficulties regarding deadlines the course faced. 
+
+No overal comments on teachers, only one which emphasized Paul Kamsteeg's absense a week long during an assignment due to which questions students had were left unanswered. 
+
+The DPC advices to take a hard stance on deadlines and to make sure there's ample time to make the final assignments. An extra lecture to explore python is also strongly adviced. Furthermore grading should be streamlined and an increase in TA presence within work groups seen as a needed development.
+The course has been evaluated with a 7.
