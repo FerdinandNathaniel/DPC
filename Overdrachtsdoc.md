@@ -34,7 +34,7 @@
         
         Chosen student representatives at the faculty-wide level
 
-    - **Assessor**
+    - **(Facultary) Assessor**
 
         Appointed student representative in the Faculty Board at the faculty-wide level
 
