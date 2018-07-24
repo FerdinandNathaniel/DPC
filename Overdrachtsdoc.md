@@ -7,7 +7,7 @@
     This is the 4-weekly meeting with all members of the DPC, this currently includes: 
     - student members (3)
     - staff members (3)
-    - advisory members (Nav, chair of education CognAC, international first year student)
+    - advisory members (Nav, chief of education CognAC, international first year student)
     - secretary (Lieve)
 
 - **Student DPC meeting**
@@ -16,13 +16,13 @@
 
 - **Staff meeting**
 
-    This is a (?)-weekly meeting of staff members, students are not present here. Input from the staff meeting will be discussed in the General DPC meeting.
+    This is a bi-weekly meeting of staff members, students are not present here. Input from the staff meeting will be discussed in the General DPC meeting.
 
 - **SOS**
 
     This is a 6-weekly meeting organised by the Faculty Student Council where a delegation of all DPC's of the faculty are present (both Bachelor and (Research) Master).
 
-### Organisational structure (Eng/NL)
+### Organisational structure (ENG/NL)
 
 - #### Students (from high to low)
 
@@ -87,6 +87,16 @@
 ### What not to do
 
 - DON'T take own initiative in contacting staff!! (not always the easiest thing to sit on your thumbs..)
+
+- DON'T let DPC-members summarise a course's evaluation if they followed it- or were TA for it in that year
+
+### Tips
+
+- Set a deadline on summarising course evaluations to make sure it happens in time
+
+- Meet every 4 weeks (off-setting the DPC meetings by 2 weeks) as student members to discuss the current situation of/problem in the programme.
+
+- Set-up a Drive to share/centralise files
 
 <!--  -->
 [DPC - flow information]: Dpc-flowOfInfo_onlyFlow.png
